@@ -212,7 +212,7 @@ export default function HistoryPage() {
   };
 
   return (
-    <div className="min-h-full flex flex-col" style={{ backgroundColor: "#FDFCF5" }}>
+    <div className="min-h-screen flex flex-col" style={{ backgroundColor: "#FDFCF5" }}>
       {/* ── NAV ── */}
       <nav
         className="sticky top-0 z-10"
