@@ -43,7 +43,7 @@ export default function Home() {
   );
 
   return (
-    <div className="min-h-full flex flex-col" style={{ backgroundColor: "#FDFCF5" }}>
+    <div className="min-h-screen flex flex-col" style={{ backgroundColor: "#FDFCF5" }}>
       <main className="mx-auto flex w-full max-w-2xl flex-1 flex-col gap-10 px-4 py-12 sm:px-6 sm:py-16">
 
         {/* ── HEADER ── */}
